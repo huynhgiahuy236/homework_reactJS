@@ -1,5 +1,5 @@
-import React from "react";
-import { featureData } from "../data/feature";
+import React, { useState } from "react";
+import  featureData  from "../data/feature.json";
 
 const Feature = () => {
   return (
