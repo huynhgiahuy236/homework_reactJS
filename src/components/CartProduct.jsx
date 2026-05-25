@@ -53,8 +53,8 @@ const CartProduct = ({ cart, setIsCart, setCart, dataShoes }) => {
         <section className="cart-main">
           <div className="cart-head">
             <div>
-              <p className="shoes-eyebrow">Your bag</p>
-              <h2>Shopping cart</h2>
+              <p className="shoes-eyebrow">Chi tiết</p>
+              <h2>Giỏ hàng</h2>
             </div>
             <button
               onClick={() => setIsCart(false)}
@@ -69,8 +69,8 @@ const CartProduct = ({ cart, setIsCart, setCart, dataShoes }) => {
               <div className="empty-cart">
                 <div>
                   <i className="fa-solid fa-bag-shopping"></i>
-                  <p>Your cart is empty</p>
-                  <span>Pick a pair and it will show up here.</span>
+                  <p>Giỏ hàng của bạn trống</p>
+                  <span>Chọn một đôi giày và nó sẽ hiển thị ở đây.</span>
                 </div>
               </div>
             ) : (

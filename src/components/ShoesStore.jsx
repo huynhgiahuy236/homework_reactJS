@@ -61,17 +61,16 @@ const ShoesStore = () => {
         <div className="hero-panel">
           <div>
             <p className="hero-eyebrow">New collection</p>
-            <h2 className="hero-title">Chon doi giay hop vibe cua ban.</h2>
+            <h2 className="hero-title">Chọn đôi giày hợp vibe của bạn.</h2>
             <p className="hero-desc">
-              Danh sach san pham, xem chi tiet, them gio hang va tinh tien deu
-              nam gon trong mot man hinh.
+              Danh sách các mẫu giày thể thao mới nhất, đa dạng về kiểu dáng và màu sắc, phù hợp với mọi phong cách và sở thích của bạn. Hãy khám phá ngay để tìm ra đôi giày hoàn hảo cho bạn!
             </p>
           </div>
 
           <div className="hero-stat-wrap">
             <div className="hero-stat">
-              <p>Available styles</p>
-              <strong>{dataShoes.length}</strong>
+              <p>Số lượng mẫu lên đến</p>
+              <strong >{dataShoes.length}</strong>
             </div>
           </div>
         </div>
