@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Prophere",
+    "alias": "adidas-prophere",
+    "price": 350,
+    "description": "Adidas Prophere features a breathable Primeknit upper with a bold chunky silhouette, delivering premium comfort and modern streetwear style for everyday use.",
+    "shortDescription": "Chunky streetwear sneaker with breathable Primeknit comfort.",
+    "quantity": 20,
+    "image": "https://shop.cyberlearn.vn/images/adidas-prophere.png"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Prophere Black White",
+    "alias": "adidas-prophere-black-white",
+    "price": 450,
+    "description": "The Adidas Prophere Black White combines a flexible textile upper with responsive cushioning and a stylish monochrome design perfect for casual wear.",
+    "shortDescription": "Black and white sneaker with flexible cushioning.",
+    "quantity": 990,
+    "image": "https://shop.cyberlearn.vn/images/adidas-prophere-black-white.png"
+  },
+  {
+    "id": 3,
+    "name": "Adidas Prophere Customize",
+    "alias": "adidas-prophere-customize",
+    "price": 375,
+    "description": "Adidas Prophere Customize delivers a personalized urban sneaker design with lightweight comfort, supportive fit, and eye-catching modern aesthetics.",
+    "shortDescription": "Custom-style sneaker with lightweight everyday comfort.",
+    "quantity": 415,
+    "image": "https://shop.cyberlearn.vn/images/adidas-prophere-customize.png"
+  },
+  {
+    "id": 4,
+    "name": "Adidas Super Star Red",
+    "alias": "adidas-super-star-red",
+    "price": 465,
+    "description": "The Adidas Superstar Red brings iconic shell-toe heritage with durable leather construction and vibrant red accents for timeless street fashion.",
+    "shortDescription": "Classic shell-toe sneaker with bold red style.",
+    "quantity": 542,
+    "image": "https://shop.cyberlearn.vn/images/adidas-super-star-red.png"
+  },
+  {
+    "id": 5,
+    "name": "Adidas Swift Run",
+    "alias": "adidas-swift-run",
+    "price": 550,
+    "description": "Adidas Swift Run is designed with a soft knit upper and lightweight cushioning, offering smooth comfort and sporty style for daily movement.",
+    "shortDescription": "Lightweight running-inspired sneaker for daily wear.",
+    "quantity": 674,
+    "image": "https://shop.cyberlearn.vn/images/adidas-swift-run.png"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Tenisky Super Star",
+    "alias": "adidas-tenisky-super-star",
+    "price": 250,
+    "description": "The Adidas Tenisky Super Star combines retro basketball inspiration with durable materials and signature shell-toe detailing for classic everyday style.",
+    "shortDescription": "Retro leather sneaker with iconic shell-toe design.",
+    "quantity": 456,
+    "image": "https://shop.cyberlearn.vn/images/adidas-tenisky-super-star.png"
+  },
+  {
+    "id": 7,
+    "name": "Adidas Ultraboost 4",
+    "alias": "adidas-ultraboost-4",
+    "price": 450,
+    "description": "Adidas Ultraboost 4 features responsive Boost cushioning and a flexible Primeknit upper, providing excellent energy return and running comfort.",
+    "shortDescription": "Responsive Boost running shoe with premium comfort.",
+    "quantity": 854,
+    "image": "https://shop.cyberlearn.vn/images/adidas-ultraboost-4.png"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Yeezy 350",
+    "alias": "adidas-yeezy-350",
+    "price": 750,
+    "description": "The Adidas Yeezy 350 offers a sleek minimalist design with soft Boost cushioning and breathable knit materials for standout streetwear fashion.",
+    "shortDescription": "Iconic Yeezy sneaker with sleek knit styling sleek minimalist.",
+    "quantity": 524,
+    "image": "https://shop.cyberlearn.vn/images/adidas-yeezy-350.png"
+  },
+  {
+    "id": 9,
+    "name": "Nike Adapt BB",
+    "alias": "nike-adapt-bb",
+    "price": 630,
+    "description": "Nike Adapt BB is an innovative basketball sneaker featuring adaptive lacing technology, responsive cushioning, and performance support for dynamic gameplay.",
+    "shortDescription": "Smart basketball shoe with adaptive lacing technology.",
+    "quantity": 599,
+    "image": "https://shop.cyberlearn.vn/images/nike-adapt-bb.png"
+  },
+  {
+    "id": 10,
+    "name": "Nike Air Max 97",
+    "alias": "nike-air-max-97",
+    "price": 650,
+    "description": "Nike Air Max 97 showcases a wave-inspired upper with full-length Air cushioning, delivering smooth comfort and timeless streetwear appeal.",
+    "shortDescription": "Classic Air Max sneaker with full-length cushioning.",
+    "quantity": 984,
+    "image": "https://shop.cyberlearn.vn/images/nike-air-max-97.png"
+  },
+  {
+    "id": 11,
+    "name": "Nike Air Max 97 Blue",
+    "alias": "nike-air-max-97-blue",
+    "price": 450,
+    "description": "Nike Air Max 97 Blue combines futuristic wave detailing with lightweight Air cushioning and striking blue accents for modern everyday style.",
+    "shortDescription": "Blue Air Max sneaker with modern street style.",
+    "quantity": 875,
+    "image": "https://shop.cyberlearn.vn/images/nike-air-max-97-blue.png"
+  },
+  {
+    "id": 12,
+    "name": "Nike Air Max 270 React",
+    "alias": "nike-air-max-270-react",
+    "price": 750,
+    "description": "Nike Air Max 270 React blends ultra-soft React foam with a large Air unit to provide maximum comfort and energetic all-day performance.",
+    "shortDescription": "Soft cushioned sneaker with React foam comfort.",
+    "quantity": 445,
+    "image": "https://shop.cyberlearn.vn/images/nike-air-max-270-react.png"
+  }
+]
