@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "fontGame";
+  src: url("../font/Pony.ttf");
+}
+
+.screen {
+  border-bottom: 40px solid rgb(255, 159, 95);
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  width: 80%;
+  max-width: 500px;
+  height: 20px;
+  filter: drop-shadow(0 10px 20px rgba(255, 159, 95, 0.4));
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.screen::after {
+  content: "MÀN HÌNH";
+  position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgb(255, 159, 95);
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
