@@ -52,7 +52,7 @@ const RapPhim = () => {
                   className={`w-10 h-8 rounded text-[10px] font-bold transition-all duration-300 transform hover:scale-110 border
                     ${
                       isDat
-                        ? "bg-slate-800 border-slate-700 text-slate-600 cursor-not-allowed opacity-50"
+                        ? "bg-[#f44a00] border-slate-700 text-slate-600 cursor-not-allowed "
                         : isChon
                           ? "bg-green-500 border-green-400 text-black shadow-[0_0_10px_rgba(34,197,94,0.6)]"
                           : "bg-slate-900 border-yellow-600 text-yellow-500 hover:bg-yellow-600/20"
